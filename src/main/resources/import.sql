@@ -1,0 +1,2 @@
+INSERT INTO `PUBLIC`.`userroles` (`id`, `version`, `username`, `role`) VALUES (1, 1, 'admin', 'ADMIN');
+INSERT INTO `PUBLIC`.`user` (`id`, `version`, `username`, `password`) VALUES (1, 1, 'admin', 'x61Ey612Kl2gpFL56FT9weDnpSo4AV8j8+qx2AuTHdRyY036xxzTTrw10Wq3+4qQyB+XURPWx1ONxp3Y3pB37A==');
