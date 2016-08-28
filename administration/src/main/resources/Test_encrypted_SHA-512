@@ -1,0 +1,4 @@
+java -cp %WILDFLY_HOME%\modules\system\layers\base\org\picketbox\main\picketbox-4.9.6.Final.jar org.jboss.security.Base64Encoder jovaco@123 SHA-512
+
+
+893PtjQmb9idpWDpGT/I9kz9mJu4O9MPr01ip7iQi+RhXIgfsu1XiTSpDj4a7M/Ae6QQbsWxV4Q+/FTcKtRhrQ==

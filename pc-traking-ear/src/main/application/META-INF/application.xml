@@ -5,7 +5,7 @@
   <module>
     <web>
       <web-uri>/pc-traking-administration.war</web-uri>
-      <context-root>/administration</context-root>
+      <context-root>/pc-traking-administration</context-root>
     </web>
   </module>
     

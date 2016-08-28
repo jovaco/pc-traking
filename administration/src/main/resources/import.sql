@@ -1,2 +1,2 @@
 INSERT INTO `PUBLIC`.`userroles` (`id`, `version`, `username`, `role`) VALUES (1, 1, 'admin', 'ADMIN');
-INSERT INTO `PUBLIC`.`user` (`id`, `version`, `username`, `password`) VALUES (1, 1, 'admin', 'x61Ey612Kl2gpFL56FT9weDnpSo4AV8j8+qx2AuTHdRyY036xxzTTrw10Wq3+4qQyB+XURPWx1ONxp3Y3pB37A==');
+INSERT INTO `PUBLIC`.`user` (`id`, `version`, `username`, `password`) VALUES (1, 1, 'admin', '893PtjQmb9idpWDpGT/I9kz9mJu4O9MPr01ip7iQi+RhXIgfsu1XiTSpDj4a7M/Ae6QQbsWxV4Q+/FTcKtRhrQ==');
