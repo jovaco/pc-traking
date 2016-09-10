@@ -29,8 +29,8 @@
     <modules>
         <module>administration</module>
         <module>e-authentication</module>
-    <module>pc-traking-ear</module>
-  </modules>
+        <module>model</module>
+    </modules>
     <properties>
         <pc-traking-version>1.0.0</pc-traking-version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

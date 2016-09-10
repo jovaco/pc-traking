@@ -2,12 +2,12 @@
 <application version="7" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/application_7.xsd">
   <display-name>pc-traking-ear</display-name>
   
-  <module>
+<!--  <module>
     <web>
       <web-uri>/pc-traking-administration.war</web-uri>
       <context-root>/pc-traking-administration</context-root>
     </web>
-  </module>
+  </module>-->
     
   <module>
     <web>
@@ -15,5 +15,10 @@
       <context-root>/e-authentication</context-root>
     </web>
   </module>
+  
+<!--  <module>
+    <ejb>Przychodnia-ejb.jar</ejb>
+  </module>
+  <library-directory>lib</library-directory>-->
 
 </application>
