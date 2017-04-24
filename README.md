@@ -20,8 +20,8 @@ aussi ne pas oublier de a jouter jass.conf dans le dossier de config de Tomcat:
   };
   </pre></code>
 
-apres cela dois correcpendre au contenu du Context.xml:
- <?xml version="1.0" encoding="UTF-8"?>
+apres cela dois correcpendre au contenu du Context.xml: (voir le ficher .MD)
+ <?xml version=1.0" encoding="UTF-8"?>
  <Context antiJARLocking="true" path="/e-authentication">
   <Realm appName="TrakingLogin" className="org.apache.catalina.realm.JAASRealm"
          roleClassNames="org.pc.traking.model.jass.RolePrincipal" userClassNames="org.pc.traking.model.jass.UserPrincipal"/>
