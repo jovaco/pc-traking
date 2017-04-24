@@ -28,3 +28,5 @@ apres cela dois correcpendre au contenu du Context.xml: (voir le ficher .MD)
  </Context>
 
 config intelidji (force deploy et context path)
+* case a cocher 'Deploy applications configured in Tomcat instance'
+* Dans le section deploiment mettre le Application context a : /e-authentication 
